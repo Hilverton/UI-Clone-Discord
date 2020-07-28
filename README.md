@@ -2,11 +2,19 @@
 
 <p align="center">Clone da interface mobile do Discord</p>
 
-<h3>🔨 Projeto Concluído</h3>
+<img src="https://github.com/Hilverton/UI-Clone-Discord/blob/master/design/Chat%20screen.png" alt="Chat screen" width="620" height="whatever">
+<img src="https://github.com/Hilverton/UI-Clone-Discord/blob/master/design/Left%20sidebar.png" alt="Left sidebar" width="620" height="whatever">
+<img src="https://github.com/Hilverton/UI-Clone-Discord/blob/master/design/Right%20sidebar.png" alt="Right sidebar" width="620" height="whatever">
 
 <h2>🔎 Tecnologias</h2>
 <ul>
-  <li>React Native</li>
-  <li>Expo-cli</li>
-  <li>React Navigation V5</li>
+  <li>
+    <a href="https://reactnative.dev/">React Native</a>
+  </li>
+  <li>
+    <a href="https://expo.io/">Expo-CLI</a>
+  </li>
+  <li>
+    <a href="https://reactnavigation.org/">React Navigation</a>
+   </li>
 </ul>
