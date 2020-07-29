@@ -9,12 +9,14 @@
 <h2>🔎 Tecnologias</h2>
 <ul>
   <li>
-    <a href="https://reactnative.dev/">React Native</a>
+    <a href="https://reactnative.dev/" target="_blank">React Native</a>
   </li>
   <li>
-    <a href="https://expo.io/">Expo-CLI</a>
+    <a href="https://expo.io/" target="_blank">Expo-CLI</a>
   </li>
   <li>
-    <a href="https://reactnavigation.org/">React Navigation</a>
+    <a href="https://reactnavigation.org/" target="_blank">React Navigation</a>
    </li>
 </ul>
+
+<p>A aplicação foi desenvolvida na IDE Snack do EXPO, e está disponível <a href="https://snack.expo.io/@hilverton/discord-clone" target="_blank">aqui</a></p>
